@@ -1,8 +1,8 @@
-Module 3 Coding Assignment Solution
-
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-Link: 
+Module 3 Coding Assignment Solution
+
+Link: https://chathtl.github.io/mod3_solution/
 
 Time to complete: About 1 hour or less.
 
